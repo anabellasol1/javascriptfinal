@@ -3,37 +3,36 @@
         "id": 1,
         "nombre": "Café Italiano",
         "precio": 1000,
-        "img": "./images/cafeEnGrano1.jpg"
+        "img": "/images/cafeEnGrano1.jpg"
     },
      {
         "id": 2,
         "nombre": "Café Colombiano",
         "precio": 1100,
-        "img":  "./images/cafeEnGrano2.jpg"
+        "img":  "/images/cafeEnGrano2.jpg"
     },
      {
         "id": 3,
         "nombre": "Café Brasilero",
         "precio": 1300,
-        "img": "./images/cafeEnGrano3.jpg"
+        "img": "/images/cafeEnGrano3.jpg"
     },
     {
         "id": 4,
         "nombre": "Café Mocha",
         "precio": 1400,
-        "img": "./images/cafeEnGrano4.jpg"
+        "img": "/images/cafeEnGrano4.jpg"
     },
     {
         "id": 5,
         "nombre": "Café Suizo",
         "precio": 1450,
-        "img": "./images/cafeEnGrano5.jpg"
+        "img": "/images/cafeEnGrano5.jpg"
     },
     {
         "id": 6,
         "nombre": "Café Americano",
         "precio": 1500,
-        "img": "./images/cafeEnGrano6.jpg"
+        "img": "/images/cafeEnGrano6.jpg"
     }
-
 ]
